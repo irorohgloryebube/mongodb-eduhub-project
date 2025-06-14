@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f0605045"
+  },
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "title": "Mastering Python for Data Science",
+  "description": "An immersive course covering everything you need to start your journey.",
+  "instructorId": "9313c03a-d5a7-4047-acdd-d921034b3af5",
+  "category": "cybersecurity",
+  "level": "advanced",
+  "duration": 14.75,
+  "price": 254.19,
+  "tags": [
+    "mentor supported",
+    "project based",
+    "career ready"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T00:02:51.573Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f0605046"
+  },
+  "courseId": "3dc9869f-183f-468e-b702-3659f944a3c9",
+  "title": "Fullstack Data Engineering Bootcamp",
+  "description": "Learn by building real-world projects in this hands-on course.",
+  "instructorId": "278c3f82-678a-495c-9508-c4627df12b69",
+  "category": "data science",
+  "level": "beginner",
+  "duration": 9.02,
+  "price": 197.63,
+  "tags": [
+    "interactive",
+    "quiz-included",
+    "mentor supported",
+    "career ready"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.549Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f0605047"
+  },
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1",
+  "title": "AI Foundations with TensorFlow",
+  "description": "Get mentorship and interactive lessons tailored to your learning pace.",
+  "instructorId": "17f7d3e1-7dca-418b-83b7-a672e577ab53",
+  "category": "data science",
+  "level": "advanced",
+  "duration": 11.92,
+  "price": 213.56,
+  "tags": [
+    "mentor supported",
+    "quiz-included",
+    "interactive"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.549Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.549Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f0605048"
+  },
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "title": "Power BI Essentials",
+  "description": "Your pathway to becoming career-ready in under 10 weeks!",
+  "instructorId": "5a865320-31c6-4c32-8691-b4a589934ccf",
+  "category": "cybersecurity",
+  "level": "beginner",
+  "duration": 6.99,
+  "price": 278.4,
+  "tags": [
+    "project based",
+    "interactive",
+    "career ready"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f0605049"
+  },
+  "courseId": "734e1342-ae75-4a6e-8e61-cc109abf518f",
+  "title": "Cloud Computing Basics",
+  "description": "Explore the tools and workflows used by professionals.",
+  "instructorId": "278c3f82-678a-495c-9508-c4627df12b69",
+  "category": "data analysis",
+  "level": "intermediate",
+  "duration": 19.25,
+  "price": 89.18,
+  "tags": [
+    "career ready",
+    "quiz-included",
+    "interactive"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f060504a"
+  },
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "title": "Cybersecurity for Beginners",
+  "description": "Quiz-based learning for deep skill retention and feedback.",
+  "instructorId": "0737f249-4d29-43aa-a604-c10e7c407b68",
+  "category": "artificial intelligence",
+  "level": "intermediate",
+  "duration": 11.01,
+  "price": 252.48,
+  "tags": [
+    "mentor supported",
+    "quiz-included",
+    "project based"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "isPublished": false
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f060504b"
+  },
+  "courseId": "d2176145-21b2-48f3-890b-0054ca513544",
+  "title": "Docker Mastery",
+  "description": "Build, ship, and run apps using Docker like a pro!",
+  "instructorId": "278c3f82-678a-495c-9508-c4627df12b69",
+  "category": "data science",
+  "level": "intermediate",
+  "duration": 17.6,
+  "price": 146.96,
+  "tags": [
+    "project based",
+    "mentor supported",
+    "career ready"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "isPublished": true
+},
+{
+  "_id": {
+    "$oid": "684cba1ef3f5cfd4f060504c"
+  },
+  "courseId": "a14df037-6cbb-4baa-a819-3342904a50cc",
+  "title": "Intro to MongoDB",
+  "description": "Hands-on guide to managing and querying NoSQL databases.",
+  "instructorId": "278c3f82-678a-495c-9508-c4627df12b69",
+  "category": "data analysis",
+  "level": "beginner",
+  "duration": 15.43,
+  "price": 127.9,
+  "tags": [
+    "project based",
+    "mentor supported",
+    "quiz-included"
+  ],
+  "createdAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T23:54:06.550Z"
+  },
+  "isPublished": false
+}]

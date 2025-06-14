@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03ef7"
+  },
+  "submissionId": "a6c77dd8-03f4-448f-a9d3-906d99353d53",
+  "assignmentId": "51bd5a1b-2abf-4abf-b66c-534ae2e21a48",
+  "studentId": "f1f9b2be-6d43-4943-a8e0-e5ab8a3b2e35",
+  "submittedAt": {
+    "$date": "2025-06-21T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/d5b9908b-3b4c-461a-a038-d38083891b2b.ipynb",
+  "grade": 95,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03ef8"
+  },
+  "submissionId": "44929861-2437-4b5c-9e73-2c9e1e4b0007",
+  "assignmentId": "c442f382-47bb-4d1f-acf6-f6d8f4b022d1",
+  "studentId": "61d045d1-9fc7-471b-a471-d1b513de3c92",
+  "submittedAt": {
+    "$date": "2025-06-25T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/226c10b1-f41b-4453-a743-3c7992a9d6a0.ipynb",
+  "grade": 95,
+  "feedback": "Excellent work—clean async code!",
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-14T00:02:19.576Z"
+  },
+  "courseId": "d2176145-21b2-48f3-890b-0054ca513544"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03ef9"
+  },
+  "submissionId": "a2caa976-924d-4d76-9a34-d6dfecdc8280",
+  "assignmentId": "594d500f-e342-43db-a283-140e1c027642",
+  "studentId": "61d045d1-9fc7-471b-a471-d1b513de3c92",
+  "submittedAt": {
+    "$date": "2025-06-20T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/23f04927-85cf-4122-93b4-35c98b44f503.ipynb",
+  "grade": 95,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "3dc9869f-183f-468e-b702-3659f944a3c9"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03efa"
+  },
+  "submissionId": "7b444942-6011-45e9-bc6a-32c11c211269",
+  "assignmentId": "4195dac7-8784-4ae1-90c4-20388028e4ef",
+  "studentId": "0cb6290f-d3b5-4787-b40c-33317c4647d7",
+  "submittedAt": {
+    "$date": "2025-06-20T07:59:13.323Z"
+  },
+  "contentUrl": "https://eduhub.submissions/b25e922e-fd29-49c5-a3b8-0fe401438b71.ipynb",
+  "grade": 67,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03efb"
+  },
+  "submissionId": "60cd5c4a-70b8-4238-9b17-8253d3965062",
+  "assignmentId": "2a82c1d3-33ba-4145-a7bb-916b00a5e564",
+  "studentId": "7c09cdee-e74c-47f8-aa39-b44cab386a79",
+  "submittedAt": {
+    "$date": "2025-06-18T07:59:13.323Z"
+  },
+  "contentUrl": "https://eduhub.submissions/0ef650c7-4696-4a04-a633-142f059948b2.ipynb",
+  "grade": null,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03efc"
+  },
+  "submissionId": "0285dc86-0034-46fa-a6ab-7dba29851013",
+  "assignmentId": "0c5f0076-aeba-42cb-bf0f-2288309c0c85",
+  "studentId": "c1fd6197-28de-4a22-aa2e-c664f741a6ab",
+  "submittedAt": {
+    "$date": "2025-06-20T07:59:13.323Z"
+  },
+  "contentUrl": "https://eduhub.submissions/ce9cdf94-1178-46db-a41a-da5caca5b534.ipynb",
+  "grade": null,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03efd"
+  },
+  "submissionId": "cf1281ae-764b-4063-8351-a63f01c011cc",
+  "assignmentId": "a154ba6a-ba02-41d3-a53f-a803e817bd09",
+  "studentId": "cd1324ac-4e41-4d63-8146-bb5336fb154b",
+  "submittedAt": {
+    "$date": "2025-07-03T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/81c5aaae-9b76-4810-973c-6037426055a6.ipynb",
+  "grade": 89,
+  "feedback": null,
+  "isLate": true,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "3dc9869f-183f-468e-b702-3659f944a3c9"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03efe"
+  },
+  "submissionId": "56f1d8e0-e800-4469-abc8-dbd89ca6e6ee",
+  "assignmentId": "594d500f-e342-43db-a283-140e1c027642",
+  "studentId": "f56bbff4-dbf8-4e37-9d79-5c9919050da7",
+  "submittedAt": {
+    "$date": "2025-06-21T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/3f13f592-cf18-49c0-9f60-b16a19b7c890.ipynb",
+  "grade": 97,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03eff"
+  },
+  "submissionId": "d9c60133-0f09-4f61-85f0-bba780089312",
+  "assignmentId": "e859de7c-08ea-4a52-a9a0-2c93abc9aea7",
+  "studentId": "9e51079f-adeb-40c7-ae18-056dc0b6f1bb",
+  "submittedAt": {
+    "$date": "2025-06-23T07:59:13.323Z"
+  },
+  "contentUrl": "https://eduhub.submissions/fa20c66d-387e-4a13-a4b5-b49656b777fc.ipynb",
+  "grade": 82,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "a14df037-6cbb-4baa-a819-3342904a50cc"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03f00"
+  },
+  "submissionId": "675a61b0-5a75-407f-bdec-7a32d17f8310",
+  "assignmentId": "594d500f-e342-43db-a283-140e1c027642",
+  "studentId": "76c2c601-fba1-4685-a3bd-62ebd2fe60ce",
+  "submittedAt": {
+    "$date": "2025-06-25T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/558d6702-199e-407c-8f08-82d732fa5af4.ipynb",
+  "grade": 92,
+  "feedback": null,
+  "isLate": true,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad"
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03f01"
+  },
+  "submissionId": "a73d6eb1-15c7-4c1a-8f4e-dc416e3ab838",
+  "assignmentId": "51bd5a1b-2abf-4abf-b66c-534ae2e21a48",
+  "studentId": "7353ce9d-6c53-4779-844a-4cde8333b7ba",
+  "submittedAt": {
+    "$date": "2025-06-21T07:59:13.322Z"
+  },
+  "contentUrl": "https://eduhub.submissions/198a9b13-e34c-4ffa-89a3-4ba627e52f32.ipynb",
+  "grade": null,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "684bcd7eb76e170c1fd03f02"
+  },
+  "submissionId": "e521ab02-ce0d-4009-9d64-2018833cf808",
+  "assignmentId": "eea4cc0b-17ca-4d7a-a3f8-0aefc85221d3",
+  "studentId": "3b7601db-873e-434c-ab91-f78ee64362a2",
+  "submittedAt": {
+    "$date": "2025-06-18T07:59:13.323Z"
+  },
+  "contentUrl": "https://eduhub.submissions/8b16cc0a-3644-4f62-8d9d-63c7631022b2.ipynb",
+  "grade": null,
+  "feedback": null,
+  "isLate": false,
+  "createdAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:04:30.953Z"
+  }
+}]

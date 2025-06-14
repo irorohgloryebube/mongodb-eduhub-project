@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03eed"
+  },
+  "assignmentId": "594d500f-e342-43db-a283-140e1c027642",
+  "courseId": "52368e46-efa0-483a-bde5-49236accb57e",
+  "title": "Data Cleaning Challenge",
+  "description": "Clean and preprocess a raw dataset using Python and Pandas.",
+  "dueDate": {
+    "$date": "2025-06-24T07:59:13.322Z"
+  },
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03eee"
+  },
+  "assignmentId": "c442f382-47bb-4d1f-acf6-f6d8f4b022d1",
+  "courseId": "baac7ec8-6353-41f8-89d3-b23d132d6401",
+  "title": "Build a REST API with Flask",
+  "description": "Develop a basic REST API that performs CRUD operations.",
+  "dueDate": {
+    "$date": "2025-06-29T07:59:13.322Z"
+  },
+  "maxScore": 50,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03eef"
+  },
+  "assignmentId": "a154ba6a-ba02-41d3-a53f-a803e817bd09",
+  "courseId": "0d614612-3f7e-4559-a284-36a39ef6e5b7",
+  "title": "Exploratory Data Analysis (EDA)",
+  "description": "Perform EDA on a dataset and generate visualizations.",
+  "dueDate": {
+    "$date": "2025-07-01T07:59:13.322Z"
+  },
+  "maxScore": 75,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef0"
+  },
+  "assignmentId": "51bd5a1b-2abf-4abf-b66c-534ae2e21a48",
+  "courseId": "8a60d6ab-0869-4b4f-8fb9-71c8eccc8338",
+  "title": "TensorFlow Model Training",
+  "description": "Train and evaluate a neural network using TensorFlow.",
+  "dueDate": {
+    "$date": "2025-06-22T07:59:13.322Z"
+  },
+  "maxScore": 75,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.322Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef1"
+  },
+  "assignmentId": "4195dac7-8784-4ae1-90c4-20388028e4ef",
+  "courseId": "323f2f34-2a0e-497b-b5fd-7e067d55529f",
+  "title": "Power BI Dashboard Project",
+  "description": "Create an interactive dashboard showing business metrics.",
+  "dueDate": {
+    "$date": "2025-06-21T07:59:13.323Z"
+  },
+  "maxScore": 100,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef2"
+  },
+  "assignmentId": "eea4cc0b-17ca-4d7a-a3f8-0aefc85221d3",
+  "courseId": "4e8f5f56-d1c5-448c-9bce-19031ec5d308",
+  "title": "Cloud Deployment Exercise",
+  "description": "Deploy a simple web app using a cloud platform of your choice.",
+  "dueDate": {
+    "$date": "2025-06-20T07:59:13.323Z"
+  },
+  "maxScore": 75,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef3"
+  },
+  "assignmentId": "0c5f0076-aeba-42cb-bf0f-2288309c0c85",
+  "courseId": "61f23dfd-9f35-498e-962a-fb646fa3acb8",
+  "title": "Security Risk Assessment",
+  "description": "Identify and assess common cybersecurity vulnerabilities.",
+  "dueDate": {
+    "$date": "2025-06-20T07:59:13.323Z"
+  },
+  "maxScore": 50,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef4"
+  },
+  "assignmentId": "467fded9-f97d-4e02-8eae-d2b5fe523dd0",
+  "courseId": "323f2f34-2a0e-497b-b5fd-7e067d55529f",
+  "title": "Containerization with Docker",
+  "description": "Package and run a Python app using Docker containers.",
+  "dueDate": {
+    "$date": "2025-06-23T07:59:13.323Z"
+  },
+  "maxScore": 50,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef5"
+  },
+  "assignmentId": "2a82c1d3-33ba-4145-a7bb-916b00a5e564",
+  "courseId": "a22e5e36-d316-470e-bbcd-9ad020cb9e9a",
+  "title": "MongoDB Aggregation Pipeline",
+  "description": "Use MongoDB's aggregation framework to summarize data.",
+  "dueDate": {
+    "$date": "2025-06-21T07:59:13.323Z"
+  },
+  "maxScore": 50,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bcc41b76e170c1fd03ef6"
+  },
+  "assignmentId": "e859de7c-08ea-4a52-a9a0-2c93abc9aea7",
+  "courseId": "a22e5e36-d316-470e-bbcd-9ad020cb9e9a",
+  "title": "Capstone Project Proposal",
+  "description": "Write a proposal for your final course project.",
+  "dueDate": {
+    "$date": "2025-06-24T07:59:13.323Z"
+  },
+  "maxScore": 75,
+  "createdAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-13T07:59:13.323Z"
+  },
+  "isActive": true
+}]

@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e85"
+  },
+  "enrollmentId": "e41960dc-4184-459d-ab39-57a75b6527fa",
+  "studentId": "4f79f05b-df2b-4171-ad41-e72900b08df7",
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.98,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e86"
+  },
+  "enrollmentId": "8dd53f5d-71fb-4c4e-a719-bb511c3c7478",
+  "studentId": "7c09cdee-e74c-47f8-aa39-b44cab386a79",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.35,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e87"
+  },
+  "enrollmentId": "5b931117-d50d-4ac0-bab7-00c1b86a4638",
+  "studentId": "1c3807cd-21b6-4bea-b58a-8db5655c19a3",
+  "courseId": "734e1342-ae75-4a6e-8e61-cc109abf518f",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.17,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e88"
+  },
+  "enrollmentId": "5ce514f1-c1cc-419d-8ec7-b348b644bae8",
+  "studentId": "7353ce9d-6c53-4779-844a-4cde8333b7ba",
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.09,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e89"
+  },
+  "enrollmentId": "defa7a60-08e3-4c06-98f5-7540e9425199",
+  "studentId": "0ffa4714-4506-49d0-9a2a-eb69739a79cf",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.46,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8a"
+  },
+  "enrollmentId": "70fa9c9b-0354-4c1d-af5d-94f7d77e6e9d",
+  "studentId": "c1fd6197-28de-4a22-aa2e-c664f741a6ab",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.27,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8b"
+  },
+  "enrollmentId": "efdb48fd-9b91-4611-b71b-60ae40b9ca63",
+  "studentId": "b13993d4-2ffc-491f-874f-ce47990cc176",
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.96,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8c"
+  },
+  "enrollmentId": "1892976b-b315-4aa4-956a-9e3e9418d4a4",
+  "studentId": "1e1499c1-96ae-4efb-b5ae-26bbd3fa3207",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 1,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8d"
+  },
+  "enrollmentId": "20624017-f748-41a3-b09e-5f99431e90eb",
+  "studentId": "4f79f05b-df2b-4171-ad41-e72900b08df7",
+  "courseId": "734e1342-ae75-4a6e-8e61-cc109abf518f",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 1,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8e"
+  },
+  "enrollmentId": "b6f8e3e9-6742-42ac-8f98-671f634d6146",
+  "studentId": "38a7bdb9-3ac4-4ba4-920a-b90b8cb9fc96",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.04,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e8f"
+  },
+  "enrollmentId": "45ee6977-3729-47ec-8283-ef2505a4273c",
+  "studentId": "38a7bdb9-3ac4-4ba4-920a-b90b8cb9fc96",
+  "courseId": "d2176145-21b2-48f3-890b-0054ca513544",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e90"
+  },
+  "enrollmentId": "da6e16f3-4f3f-4ff0-838a-e9a80e089c4b",
+  "studentId": "fd37dd0e-a855-4251-8549-a121a3a2c634",
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.38,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e91"
+  },
+  "enrollmentId": "788d69b4-0a73-4d2b-bfc6-db688ce96be2",
+  "studentId": "0d50f7ed-6fb1-40cf-a2da-8d10d1aa8139",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 0.77,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc88ab76e170c1fd03e92"
+  },
+  "enrollmentId": "beaf1132-c249-4b41-8f8c-2a0a1b4c936c",
+  "studentId": "9d498dec-bec2-4a93-9660-072fb1900941",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:22.736Z"
+  },
+  "progress": 1,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e93"
+  },
+  "enrollmentId": "7967b62c-6207-4de9-89f0-f53ec74ffe74",
+  "studentId": "ba30237b-2030-43ea-b36c-8f2329f5448f",
+  "courseId": "4e096372-373f-486c-a462-bd54d8b4e6b1",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.86,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e94"
+  },
+  "enrollmentId": "b5579407-a15a-48bd-9d63-2add57b699da",
+  "studentId": "0d50f7ed-6fb1-40cf-a2da-8d10d1aa8139",
+  "courseId": "a14df037-6cbb-4baa-a819-3342904a50cc",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.22,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e95"
+  },
+  "enrollmentId": "74b283fd-7574-4ff3-ab80-42d3de839e72",
+  "studentId": "25d5be1f-6701-448c-9fd4-735bd8890ed7",
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.39,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e96"
+  },
+  "enrollmentId": "8f66be7f-b587-47f8-98a7-6594210447d2",
+  "studentId": "c1fd6197-28de-4a22-aa2e-c664f741a6ab",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.06,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e97"
+  },
+  "enrollmentId": "465fc836-b0fe-49ac-9ccb-a2506a5c02eb",
+  "studentId": "7c09cdee-e74c-47f8-aa39-b44cab386a79",
+  "courseId": "734e1342-ae75-4a6e-8e61-cc109abf518f",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.2,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e98"
+  },
+  "enrollmentId": "7a7b0b18-7b9e-4464-ba90-2c889645ab85",
+  "studentId": "ba30237b-2030-43ea-b36c-8f2329f5448f",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.94,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e99"
+  },
+  "enrollmentId": "e7d16af0-48b9-41ff-baca-397248d20337",
+  "studentId": "e4dfc94c-3898-4c38-9960-de63183738e6",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.53,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9a"
+  },
+  "enrollmentId": "055bc88d-7d05-442e-bcb2-496a4c67735b",
+  "studentId": "bf4fd982-29e6-4ce1-8d8f-078959520640",
+  "courseId": "a14df037-6cbb-4baa-a819-3342904a50cc",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.68,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9b"
+  },
+  "enrollmentId": "6cf30e63-7907-4d30-bca2-a7c89f5305f9",
+  "studentId": "3b7601db-873e-434c-ab91-f78ee64362a2",
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.17,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9c"
+  },
+  "enrollmentId": "33370c1c-464e-4d21-8702-f7806620c6e6",
+  "studentId": "0ffa4714-4506-49d0-9a2a-eb69739a79cf",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.34,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9d"
+  },
+  "enrollmentId": "6b0dcc06-e58c-4f37-a7aa-d101793cbbab",
+  "studentId": "fcd8ff92-b9ae-429d-8591-851aea7fd5d9",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.46,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9e"
+  },
+  "enrollmentId": "7766736f-8ff2-4d28-a425-827817da1139",
+  "studentId": "fa7dd214-3957-4822-a0c3-1a301e5b9e10",
+  "courseId": "b1aaa889-1fe5-4437-98a3-b1607f901ac9",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.26,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03e9f"
+  },
+  "enrollmentId": "fddad318-1f05-4795-a008-39a91e3051e8",
+  "studentId": "7353ce9d-6c53-4779-844a-4cde8333b7ba",
+  "courseId": "16a0ee16-d8bd-471b-b1b6-3e0b0bc63606",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 1,
+  "isActive": false
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03ea0"
+  },
+  "enrollmentId": "7755ae4f-4113-4d70-a530-180d4b16ea7e",
+  "studentId": "1e1499c1-96ae-4efb-b5ae-26bbd3fa3207",
+  "courseId": "d3075772-582a-4098-9287-55c56345a8ad",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.17,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684bc89cb76e170c1fd03ea1"
+  },
+  "enrollmentId": "483bd5cc-00ea-4cc8-a85b-9e21e6ec2e62",
+  "studentId": "7c09cdee-e74c-47f8-aa39-b44cab386a79",
+  "courseId": "d2176145-21b2-48f3-890b-0054ca513544",
+  "enrolledAt": {
+    "$date": "2025-06-13T06:43:40.268Z"
+  },
+  "progress": 0.47,
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "684cb0b7f3f5cfd4f060502d"
+  },
+  "enrollmentId": "b52172d4-289d-4bb6-adb0-535fb73ef554",
+  "studentId": "ba30237b-2030-43ea-b36c-8f2329f5448f",
+  "courseId": "734e1342-ae75-4a6e-8e61-cc109abf518f",
+  "enrolledAt": {
+    "$date": "2025-06-13T23:13:59.718Z"
+  },
+  "progress": 0,
+  "isActive": true
+}]
